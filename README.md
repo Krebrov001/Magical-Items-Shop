@@ -57,6 +57,10 @@ The program simulates a magical items shop named "Verlin's Magical Items Shop," 
 
 This program is a comprehensive simulation of a shop transaction system, focusing on user interaction, inventory management, and dynamic UI updates. It demonstrates advanced HLA programming techniques, including file inclusion, procedure definition, exception handling, and detailed receipt generation. It's designed to be interactive and user-friendly, guiding users through transactions while preventing errors and managing inventory in real-time.
 
+### Youtube video demonstration
+
+- [High Level Assembly project - terminal based transaction processing system](https://www.youtube.com/watch?v=Xn8PGjG6hIg)
+
 ### Links to Other Documentations
 
 - [Program Description](Program_Description.md)
